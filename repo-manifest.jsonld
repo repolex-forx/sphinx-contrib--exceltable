@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/exceltable/commit/d8c05cf49a0a43bb1ca868ce0a395a00314c02d6",
       "git:hexsha": "d8c05cf49a0a43bb1ca868ce0a395a00314c02d6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/exceltable/commit/914e952b3f182a58243c92909c42081e292bfe81",
