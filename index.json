@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "exceltable",
+  "versions": [
+    {
+      "commit": "d8c05cf49a0a43bb1ca868ce0a395a00314c02d6",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:48:12.188707+00:00"
+    }
+  ]
+}
